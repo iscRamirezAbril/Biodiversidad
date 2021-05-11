@@ -7,6 +7,6 @@
     <title>Biodiversidad</title>
 </head>
 <body>
-    <h1>Algo básico</h1>
+    <h1>Algo n.n</h1>
 </body>
 </html>

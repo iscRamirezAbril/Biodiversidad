@@ -15,6 +15,9 @@
        <li>Plantas </li>
        <li>Animales </li>
        <li>Hongos </li>
+       <li>Hongos </li>
+       <li>Hongos </li>
+       <li>Hongos </li>
     <p>que viven en un espacio deterinado</p>
 </body>
 </html>

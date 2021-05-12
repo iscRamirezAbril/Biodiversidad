@@ -12,12 +12,10 @@
     <p>
        La "Biodiversidad", también conocida como "Diversidad Biológica, comprende todas las formas de vida existentes,
        es decir, la variabilidad de organismos vivos Abarca la diversidad de especies de </p>
-       <li>Plantas </li>
-       <li>Animales </li>
-       <li>Hongos </li>
-       <li>Hongos </li>
-       <li>Hongos </li>
-       <li>Hongos </li>
+       <li> Plantas </li>
+       <li> Animales </li>
+       <li> Hongos </li>
+       <li> Microorganismos </li>
     <p>que viven en un espacio deterinado</p>
 </body>
 </html>

@@ -16,6 +16,6 @@
        <li>Animales </li>
        <li>Hongos </li>
        <li>Microorganismos </li> 
-    <p>que viven en un espacio determinado"</p>
+    <p>que viven en un espacio"</p>
 </body>
 </html>

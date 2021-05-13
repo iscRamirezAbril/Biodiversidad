@@ -9,7 +9,7 @@
 <body>
     <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
     <h1>Biodiversidad y medio ambiente</h1>
-    <h2>¿Qué es la boidiversidad?</h2>
+    <h2>¿Qué es la biodiversidad?</h2>
     <p>
        La "Biodiversidad", también conocida como "Diversidad Biológica, comprende todas las formas de vida existentes,
        es decir, la variabilidad de organismos vivos Abarca la diversidad de especies de </p>

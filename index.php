@@ -24,7 +24,7 @@
             </div>
         </div>
     </nav>
-    <header class="masthead" style="background-image:url('assets/img/Portada_1.jpg');">
+    <header class="masthead" style="background-image:url('assets/img/Portada_2.jpg');">
         <div class="overlay"></div>
         <div class="container">
             <div class="row">

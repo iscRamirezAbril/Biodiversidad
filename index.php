@@ -40,18 +40,22 @@
         <div class="row">
             <div class="col-md-10 col-lg-8">
                 <div class="post-preview"><a href="#">
+                        <h2 class="post-title">¡Bienvenido a "Título de página Pendiente..."!</h2>
+                        <h3 class="post-subtitle">En este sitio web encontrarás información general y datos
+                            curiosos sobre la Diversidad Biológica y derivados de esta.
+                            Esperamos que dicha información te sea útil.
+                        </h3>
+                    </a>
+                    <p class="post-meta">Atte. Axolotl Team</p>
+                </div>
+                <hr>
+                <div class="post-preview"><a href="#">
                         <h2 class="post-title">¿Qué es la Biodiversidad?</h2>
                         <h3 class="post-subtitle">La variabilidad de organinismos vivos de cualquier fuente,
                             incluidos, entre otras cosas, los ecosistemas terrestres y marinos y otros acuáticos,
                             y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de
                             cada especie, entre las especies y de los ecosistemas.
                         </h3>
-                    </a>
-                    <p class="post-meta">Publicado en&nbsp;<a href="#">Convenio de Diversidad Biológica, 1992</a></p>
-                </div>
-                <hr>
-                <div class="post-preview"><a href="#">
-                        <h2 class="post-title">I believe every human has a finite number of heartbeats. I don't intend to waste any of mine.</h2>
                     </a>
                     <p class="post-meta">Posted by&nbsp;<a href="#">Start Bootstrap on September 18, 2018</a></p>
                 </div>

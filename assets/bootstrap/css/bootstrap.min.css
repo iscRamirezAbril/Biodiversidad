@@ -9773,7 +9773,7 @@ header.masthead .post-heading .meta a {
 
 .post-preview>.post-meta>a:focus, .post-preview>.post-meta>a:hover {
     text-decoration: underline;
-    color: #0085a1
+    color: #00a115
 }
 
 @media only screen and (min-width:768px) {

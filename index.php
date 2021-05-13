@@ -9,7 +9,11 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
 <link href="https://fonts.googleapis.com/css2?family=Comic+Neue:ital@1&display=swap" rel="stylesheet">
 </head>
+<header>
+<nav></nav>
+</header>
 <body>
+<div id="Concepto">    
     <h1>Biodiversidad y medio ambiente</h1>
     <h2>¿Qué es la biodiversidad?</h2>
     <p>
@@ -19,6 +23,7 @@
        <li> Animales </li>
        <li> Hongos </li>
        <li> Microorganismos </li>
-    <p>que viven en un espacio deterinado</p>
+    <p>que viven en un espacio deterinado</p></div>
 </body>
+<footer></footer>
 </html>

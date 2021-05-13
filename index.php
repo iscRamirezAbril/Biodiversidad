@@ -7,6 +7,7 @@
     <title>Biodiversidad - Hackathon 2021</title>
 </head>
 <body>
+    <link rel="stylesheet" type="text/css" href="style.css" media="screen" />
     <h1>Biodiversidad y medio ambiente</h1>
     <h2>¿Qué es la boidiversidad?</h2>
     <p>

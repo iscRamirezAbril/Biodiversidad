@@ -47,7 +47,7 @@
                             cada especie, entre las especies y de los ecosistemas.
                         </h3>
                     </a>
-                    <p class="post-meta">Publicado eny&nbsp;<a href="#">Convenio de Diversidad Biológica, 1992</a></p>
+                    <p class="post-meta">Publicado en&nbsp;<a href="#">Convenio de Diversidad Biológica, 1992</a></p>
                 </div>
                 <hr>
                 <div class="post-preview"><a href="#">

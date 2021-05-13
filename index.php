@@ -40,10 +40,14 @@
         <div class="row">
             <div class="col-md-10 col-lg-8">
                 <div class="post-preview"><a href="#">
-                        <h2 class="post-title">Man must explore, and this is exploration at its greatest</h2>
-                        <h3 class="post-subtitle">Problems look mighty small from 150 miles up</h3>
+                        <h2 class="post-title">¿Qué es la Biodiversidad?</h2>
+                        <h3 class="post-subtitle">La variabilidad de organinismos vivos de cualquier fuente,
+                            incluidos, entre otras cosas, los ecosistemas terrestres y marinos y otros acuáticos,
+                            y los complejos ecológicos de los que forman parte; comprende la diversidad dentro de
+                            cada especie, entre las especies y de los ecosistemas.
+                        </h3>
                     </a>
-                    <p class="post-meta">Posted by&nbsp;<a href="#">Start Bootstrap on September 24, 2018</a></p>
+                    <p class="post-meta">Publicado eny&nbsp;<a href="#">Convenio de Diversidad Biológica, 1992</a></p>
                 </div>
                 <hr>
                 <div class="post-preview"><a href="#">

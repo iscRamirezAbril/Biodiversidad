@@ -54,29 +54,15 @@
                         <h3 class="post-subtitle">En esta página informativa se encontrán los siguientes
                             apartados:
                             <li>Home: donde se encuentra la bienbenida a este sitio web.</li>
-                            <li>About Us: donde podrás encontrar información sobre los desarrolladores de la página..</li>
-                            <li>Contact Us: podrás ponerte en contacto </li>
-                            <li>Home: donde se encuentra la bienvenida a este sitio web.</li>
+                            <li>About Us: donde podrás encontrar información sobre los desarrolladores de la página.</li>
+                            <li>Contact Us: podrás ponerte en contacto.</li>
+                            <li>Blog Post: donde encontrarás todo tipo de información acerca de la boidiversidad.</li>
                         </h3>
                     </a>
-                    <p class="post-meta">Posted by&nbsp;<a href="#">Start Bootstrap on September 18, 2018</a></p>
+                    <p class="post-meta">Posted by <a href="#">Axolotl Team, 2021.</a></p>
                 </div>
                 <hr>
-                <div class="post-preview"><a href="#">
-                        <h2 class="post-title"> Science has not yet mastered prophecy</h2>
-                        <h3 class="post-subtitle">We predict too much for the next year and yet far too little for the next ten.</h3>
-                    </a>
-                    <p class="post-meta">Posted by&nbsp;<a href="#">Start Bootstrap on August 24, 2018</a></p>
-                </div>
-                <hr>
-                <div class="post-preview"><a href="#">
-                        <h2 class="post-title">Failure is not an option</h2>
-                        <h3 class="post-subtitle">Many say exploration is part of our destiny, but it’s actually our duty to future generations.</h3>
-                    </a>
-                    <p class="post-meta">Posted by&nbsp;<a href="#">Start Bootstrap on July 8, 2018</a></p>
-                </div>
-                <hr>
-                <div class="clearfix"><button class="btn btn-primary float-right" type="button">Older Posts&nbsp;⇒</button></div>
+                <div class="clearfix"></div>
             </div>
         </div>
     </div>
@@ -89,7 +75,7 @@
                         <li class="list-inline-item"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span></li>
                         <li class="list-inline-item"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-github fa-stack-1x fa-inverse"></i></span></li>
                     </ul>
-                    <p class="text-muted copyright">Copyright&nbsp;©&nbsp;Brand 2021</p>
+                    <p class="text-muted copyright">Copyright&nbsp;©&nbsp;Axolotl Team 2021</p>
                 </div>
             </div>
         </div>

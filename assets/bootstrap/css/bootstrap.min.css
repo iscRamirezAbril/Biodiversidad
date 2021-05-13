@@ -9740,12 +9740,12 @@ header.masthead .post-heading .meta a {
 }
 
 .post-preview>a {
-    color: green
+    color: #212529
 }
 
 .post-preview>a:focus, .post-preview>a:hover {
     text-decoration: none;
-    color: #0085a1
+    color: #00a15e6c
 }
 
 .post-preview>a>.post-title {

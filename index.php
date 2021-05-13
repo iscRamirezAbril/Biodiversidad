@@ -38,7 +38,7 @@
     </header>
     <div class="container">
         <div class="row">
-            <div class="col-md-10 col-lg-8">
+            <div class="col-md-10 col-lg-20">
                 <div class="post-preview"><a href="#">
                         <h2 class="post-title">¡Bienvenido a "Título de página Pendiente..."!</h2>
                         <h3 class="post-subtitle">En este sitio web encontrarás información general y datos

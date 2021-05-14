@@ -23,8 +23,8 @@
                 <p class="card-text">Abril Ramirez.</p>
                 <p class="card-text">Hola, soy Abril, actualmente soy estudiante de ingeniería en Sistemas Computacionales, me especializo en desarrollo de software y soy excelente trabajando bajo presión.</p>
                 <ul class="list-inline text-center">
-                    <li class="list-inline-item"><a href="https://github.com/iscRamirezAbril"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-github fa-stack-1x fa-inverse"></i></span></a></li>
                     <li class="list-inline-item"><a href="https://www.facebook.com/abril.ramirez.9235"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span></li>
+                    <li class="list-inline-item"><a href="https://github.com/iscRamirezAbril"><span class="fa-stack fa-lg"><i class="fa fa-circle fa-stack-2x"></i><i class="fa fa-github fa-stack-1x fa-inverse"></i></span></a></li>
                 </ul>
             </div>
         </div>

@@ -3,9 +3,9 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item"><a class="nav-link" href="index.php">Inicio</a></li>
-                <li class="nav-item"><a class="nav-link" href="about.php">Sobre nosotros</a></li>
+                <li class="nav-item"><a class="nav-link" href="about.php">Sobre  nosotros</a></li>
                 <li class="nav-item"><a class="nav-link" href="contact.php">Contáctanos</a></li>
-                <li class="nav-item"><a class="nav-link" href="post.php">Blog Post</a></li>
+                <li class="nav-item"><a class="nav-link" href="post.php">Blog Biodiversidad</a></li>
             </ul>
         </div>
     </div>

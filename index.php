@@ -45,10 +45,10 @@
                         <h2 class="post-title">Apartados.</h2>
                         <h3 class="post-subtitle">En esta página informativa se encontrarán los siguientes
                             apartados:
-                            <li>Home: donde se encuentra la bienvenida a este sitio web.</li>
-                            <li>About Us: donde podrás encontrar información sobre los desarrolladores de la página.</li>
-                            <li>Contact Us: podrás ponerte en contacto.</li>
-                            <li>Blog Post: donde encontrarás todo tipo de información acerca de la biodiversidad.</li>
+                            <li>Inicio: donde se encuentra la bienvenida a este sitio web.</li>
+                            <li>Sobre nosotros: donde podrás encontrar información sobre los desarrolladores de la página.</li>
+                            <li>Contáctanos: podrás ponerte en contacto.</li>
+                            <li>Blog Biodiversidad: donde encontrarás todo tipo de información acerca de la biodiversidad.</li>
                         </h3>
                     </a>
                     <p class="post-meta">Posted by <a href="#">Axolotl Team, 2021.</a></p>

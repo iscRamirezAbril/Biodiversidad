@@ -69,37 +69,37 @@
 
                     <h2 class="section-heading">Especies animales emblemáticas de México en peligro de extinción</h2>
                         <h3>Vaquita marina</h3>
-                        <p>La vaquita, o marsopa común del Golfo de California, es un mamífero marino endémico del Golfo de California y es la especie de cetáceo en mayor peligro de extinción en el mundo. Las vaquitas son las más pequeñas de las siete marsopas conocidas. Las hembras crecen hasta 140 cm (4.6 pies) de largo, mientras que los machos son un poco más pequeños, hasta 135 cm (4.4 pies).</p><a href="#"><img class="imgInt" src="assets/img/Vaquita marina.jpg"></a>
+                        <p>La vaquita, o marsopa común del Golfo de California, es un mamífero marino endémico del Golfo de California y es la especie de cetáceo en mayor peligro de extinción en el mundo. Las vaquitas son las más pequeñas de las siete marsopas conocidas. Las hembras crecen hasta 140 cm (4.6 pies) de largo, mientras que los machos son un poco más pequeños, hasta 135 cm (4.4 pies).</p><a href="#"><img class="img-fluid" src="assets/img/Vaquita marina.jpg"></a>
                         
                         <p></p>
                         <h3>Tortuga Laúd</h3>
-                        <p>Tan antigua como los dinosaurios, la tortuga laúd se encuentra en peligro de extinción. La tortuga laúd es el reptil más pesado del planeta y la más grande de todas las tortugas vivientes, creciendo hasta 2 metros de largo y pesando hasta 700 kg. Se puede distinguir fácilmente de otras tortugas marinas por la falta de un caparazón óseo o carapacho; en cambio, está cubierto por piel y carne aceitosa, lo que da lugar al nombre de “laúd”.</p><a href="#"><img class="imgInt" src="assets/img/TortugaLaud.jpg"></a>
+                        <p>Tan antigua como los dinosaurios, la tortuga laúd se encuentra en peligro de extinción. La tortuga laúd es el reptil más pesado del planeta y la más grande de todas las tortugas vivientes, creciendo hasta 2 metros de largo y pesando hasta 700 kg. Se puede distinguir fácilmente de otras tortugas marinas por la falta de un caparazón óseo o carapacho; en cambio, está cubierto por piel y carne aceitosa, lo que da lugar al nombre de “laúd”.</p><a href="#"><img class="img-fluid" src="assets/img/TortugaLaud.jpg"></a>
                         
                         <p></p>
                         <h3>Lobo mexicano</h3>
                         <p>El lobo mexicano es la subespecie más pequeña de lobo gris en América del Norte. Es también uno de los mamíferos más raros y en mayor en peligro de extinción en el continente, con sólo pocas docenas sobreviviendo en vida silvestre después de un programa de reintroducción. </p>
-                        <p>Alcanzan el tamaño de un pastor alemán, pesan entre 21 y 41 kg, y crecen entre 140 cm y 180 cm del hocico a la cola. Pueden vivir hasta 8 años de edad en la naturaleza.</p><a href="#"><img class="imgInt" src="assets/img/LoboMexicano.jpg"></a>
+                        <p>Alcanzan el tamaño de un pastor alemán, pesan entre 21 y 41 kg, y crecen entre 140 cm y 180 cm del hocico a la cola. Pueden vivir hasta 8 años de edad en la naturaleza.</p><a href="#"><img class="img-fluid" src="assets/img/LoboMexicano.jpg"></a>
 
                         <p></p>
                         <h3>Ajolote Mexicano</h3>
                         <p>El ajolote mexicano es una salamandra larga, oscura, cilíndrica, midiendo hasta 30 cm (12 pulgadas) de largo. Esta criatura de distintivo aspecto y en peligro de extinción tiene branquias grandes, que se extienden desde la parte posterior de su cabeza ancha.</p>
-                        <p>En algún tiempo, el ajolote fue una fuente común de alimento. El ajolote también se utilizó en remedios populares que supuestamente podrían tratar enfermedades respiratorias como el asma y la bronquitis. La creencia de sus propiedades terapéuticas, todavía existe en algunos lugares, y hasta hace poco, fue posible encontrar bálsamos y jarabes en el mercado de Sonora en la Ciudad de México que pretendía contener ajolote como ingrediente principal.</p><a href="#"><img class="imgInt" src="assets/img/Ajolote.jpg"></a>
+                        <p>En algún tiempo, el ajolote fue una fuente común de alimento. El ajolote también se utilizó en remedios populares que supuestamente podrían tratar enfermedades respiratorias como el asma y la bronquitis. La creencia de sus propiedades terapéuticas, todavía existe en algunos lugares, y hasta hace poco, fue posible encontrar bálsamos y jarabes en el mercado de Sonora en la Ciudad de México que pretendía contener ajolote como ingrediente principal.</p><a href="#"><img class="img-fluid" src="assets/img/Ajolote.jpg"></a>
                         
                         <p></p>
                         <h3>Guacamaya Roja</h3>
                         <p>Las guacamayas rojas son aves se distinguen por su colorido plumaje, con cuerpos de color rojo escarlata, plumas de las alas amarillas y azul claro las plumas de la cola. </p>
-                        <p>En México, la guacamaya roja ha sido completamente exterminada en los estados de Tamaulipas, Veracruz, Oaxaca, Tabasco y Campeche. Actualmente, sólo hay dos poblaciones conocidas que habitan en menos del 5 por ciento del territorio mexicano. Estas poblaciones se encuentran en la selva Lacandona, en el lado oriental de Chiapas y en Los Chimalapas, Oaxaca.</p><a href="#"><img class="imgInt" src="assets/img/Guacamaya.jpg"></a>
+                        <p>En México, la guacamaya roja ha sido completamente exterminada en los estados de Tamaulipas, Veracruz, Oaxaca, Tabasco y Campeche. Actualmente, sólo hay dos poblaciones conocidas que habitan en menos del 5 por ciento del territorio mexicano. Estas poblaciones se encuentran en la selva Lacandona, en el lado oriental de Chiapas y en Los Chimalapas, Oaxaca.</p><a href="#"><img class="img-fluid" src="assets/img/Guacamaya.jpg"></a>
 
                         <p></p>
                         <h3>Mariposa Monarca</h3>
                         <p>La monarca es tal vez la mariposa más conocida del mundo, pero ese estatus no le ha garantizado evitar las profundas amenazas para su supervivencia. La gran migración de esta mariposa desde Estados Unidos al sur de Canadá a México y California en el invierno, es uno de los más espectaculares y extraordinarios espectáculos naturales. </p>
-                        <p>Las monarcas son mariposas relativamente grandes, midiendo 10 cm desde la punta de un ala a la punta la otra. Sus alas son fáciles de reconocer - naranja brillante con rayas negras y manchas blancas. La parte inferior de las alas son de color naranja pálido, por lo que cuando se pliegan sus alas en los árboles y otras plantas, las mariposas aparecen camufladas.</p><a href="#"><img class="imgInt" src="assets/img/MariposaMonarca.jpg"></a>
+                        <p>Las monarcas son mariposas relativamente grandes, midiendo 10 cm desde la punta de un ala a la punta la otra. Sus alas son fáciles de reconocer - naranja brillante con rayas negras y manchas blancas. La parte inferior de las alas son de color naranja pálido, por lo que cuando se pliegan sus alas en los árboles y otras plantas, las mariposas aparecen camufladas.</p><a href="#"><img class="img-fluid" src="assets/img/MariposaMonarca.jpg"></a>
 
                         <p></p>
                         <h3>Jaguar</h3>
                         <p>Conocido como “Océlotl” en náhuatl y “balam” en maya, el jaguar ha sido asociado en las diversas culturas de México con el valor, poder, la noche, el inframundo, la fertilidad de la tierra y la muerte. </p>
                         <p>Los machos pueden llegar a pesar 150 kilogramos; las hembras son más pequeñas. En contraste con los otros felinos grandes, el jaguar gruñe y rara vez ruge. Como depredadores, controlan las densidades poblacionales de sus presas, por lo tanto, la desaparición de jaguares puede alterar ecosistemas enteros.</p>
-                        <p>Hoy en día la especie se enfrenta a numerosas amenazas: la pérdida y fragmentación de su hábitat, la agricultura y la ganadería, la caza, la reducción de sus presas (mamíferos, aves, reptiles y peces) y la expansión de los asentamientos humanos.</p><a href="#"><img class="imgInt" src="assets/img/Jaguar.jpg"></a>
+                        <p>Hoy en día la especie se enfrenta a numerosas amenazas: la pérdida y fragmentación de su hábitat, la agricultura y la ganadería, la caza, la reducción de sus presas (mamíferos, aves, reptiles y peces) y la expansión de los asentamientos humanos.</p><a href="#"><img class="img-fluid" src="assets/img/Jaguar.jpg"></a>
                 </div>
             </div>
         </div>

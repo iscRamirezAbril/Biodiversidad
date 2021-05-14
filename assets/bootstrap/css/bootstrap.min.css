@@ -12,7 +12,12 @@
  * Copyright 2011-2021 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
-
+ .icon {
+    background: url('/assets/img/favicon.ico');
+    height: 20px;
+    width: 20px;
+    display: block;
+}
 :root {
     --blue: #007bff;
     --indigo: #6610f2;
@@ -537,6 +542,13 @@ pre code {
     .container, .container-lg, .container-md, .container-sm, .container-xl {
         max-width: 1140px
     }
+}
+.imgInt{
+    max-width: 200px;
+    border-radius: 50%;
+}
+.integrantes{
+    display: flex;
 }
 
 .row {

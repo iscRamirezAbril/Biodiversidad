@@ -16,13 +16,13 @@
     <?php
     include 'header.php';
     ?>
-    <header class="masthead" style="background-image:url('assets/img/about-bg.jpg');">
+    <header class="masthead" style="background-image:url('assets/img/aboutPage.gif');">
         <div class="overlay"></div>
         <div class="container">
             <div class="row">
                 <div class="col-md-10 col-lg-8 mx-auto">
                     <div class="site-heading">
-                        <h1>Sobre Axolotl Team</h1><span class="subheading">This is what I do</span>
+                        <h1>Sobre Axolotl Team</h1><span class="subheading">Emprendimiento e innovación</span>
                     </div>
                 </div>
             </div>

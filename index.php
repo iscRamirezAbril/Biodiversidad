@@ -4,6 +4,13 @@
 define('TITLE', 'Axolotl Team');
 ?>
 
+<!--JQuery-->  
+<script type="text/javascript" src="jquery-3.3.1.min.js"></script>  
+<!--Floating WhatsApp css-->  
+<link rel="stylesheet" href="floating-wpp.min.css">  
+<!--Floating WhatsApp javascript-->  
+<script type="text/javascript" src="floating-wpp.min.js"></script>
+
 <head>
     <title>About - <?php echo TITLE ?></title>
     <?php include 'head.php'; ?>
@@ -40,7 +47,7 @@ define('TITLE', 'Axolotl Team');
                 <hr>
                 <div class="post-preview">
                     <h2 class="post-title">Actualizaciones</h2>
-                    <h4 class="post-subtitle">En esta página informativa se encontrarán los siguientesapartados:</h3>
+                    <h4 class="post-subtitle">En esta página informativa se encontrarán los siguientes apartados:</h3>
                         <li>Inicio: donde se encuentra la bienvenida a este sitio web.</li>
                         <li>Sobre nosotros: donde podrás encontrar información sobre los desarrolladores de la página.</li>
                         <li>Contáctanos: podrás ponerte en contacto.</li>
@@ -52,6 +59,11 @@ define('TITLE', 'Axolotl Team');
             </div>
         </div>
     </div>
+
+    <?php
+    include 'ajolotito.php';
+    ?>
+
     <footer>
         <?php
         include 'footer.php';

@@ -1,0 +1,57 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "channels_WebChatChannel_enablePreview": {
+            "type": "Bool"
+        },
+        "botServices_AxolotlBioBot_name": {
+            "defaultValue": "AxolotlBioBot",
+            "type": "String"
+        }
+    },
+    "variables": {},
+    "resources": [
+        {
+            "type": "Microsoft.BotService/botServices",
+            "apiVersion": "2021-03-01",
+            "name": "[parameters('botServices_AxolotlBioBot_name')]",
+            "location": "global",
+            "sku": {
+                "name": "F0"
+            },
+            "kind": "sdk",
+            "properties": {
+                "displayName": "Ajolotito",
+                "iconUrl": "[concat('//bot-framework.azureedge.net/bot-icons-v1/', parameters('botServices_AxolotlBioBot_name'), '_4edGhwDxRBV67naGttFEUeGFNC2vFGpy6cgDOyDiG1IJ8ih.png')]",
+                "endpoint": "https://axolotlbiobot.azurewebsites.net/api/messages",
+                "msaAppId": "31472389-2dec-431a-a9c2-83b9946276b4",
+                "luisAppIds": [],
+                "schemaTransformationVersion": "1.2",
+                "isCmekEnabled": false,
+                "isIsolated": false
+            }
+        },
+        {
+            "type": "Microsoft.BotService/botServices/channels",
+            "apiVersion": "2021-03-01",
+            "name": "[concat(parameters('botServices_AxolotlBioBot_name'), '/WebChatChannel')]",
+            "location": "global",
+            "dependsOn": [
+                "[resourceId('Microsoft.BotService/botServices', parameters('botServices_AxolotlBioBot_name'))]"
+            ],
+            "properties": {
+                "properties": {
+                    "sites": [
+                        {
+                            "siteName": "Default Site",
+                            "isEnabled": true,
+                            "enablePreview": "[parameters('channels_WebChatChannel_enablePreview')]"
+                        }
+                    ]
+                },
+                "channelName": "WebChatChannel"
+            }
+        }
+    ]
+}

@@ -4,13 +4,6 @@
 define('TITLE', 'Axolotl Team');
 ?>
 
-<!--JQuery-->  
-<script type="text/javascript" src="jquery-3.3.1.min.js"></script>  
-<!--Floating WhatsApp css-->  
-<link rel="stylesheet" href="floating-wpp.min.css">  
-<!--Floating WhatsApp javascript-->  
-<script type="text/javascript" src="floating-wpp.min.js"></script>
-
 <head>
     <title>About - <?php echo TITLE ?></title>
     <?php include 'head.php'; ?>
@@ -59,16 +52,13 @@ define('TITLE', 'Axolotl Team');
             </div>
         </div>
     </div>
-
-    <?php
-    include 'ajolotito.php';
-    ?>
-
+    
     <footer>
         <?php
         include 'footer.php';
         ?>
     </footer>
+
     <script src="assets/js/jquery.min.js"></script>
     <script src="assets/bootstrap/js/bootstrap.min.js"></script>
     <script src="assets/js/clean-blog.js"></script>

@@ -1,6 +1,19 @@
 <?php
 $Year = date("Y");
-?><div class="container">
+?>
+
+<img class="open-button" onclick="openForm()" src="assets/img/Profiles/profileAjolotito.png" alt="">
+
+<div class="chat-popup" id="myForm">
+  <form action="/action_page.php" class="form-container">
+  <img class="open-button" onclick="closeForm()" src="assets/img/Profiles/profileAjolotito.png" alt="">
+    <iframe
+        src='https://webchat.botframework.com/embed/AxolotlBioBot?s=Re_Ke82I1XI.IALak-Yhjb9RnFsm4V5ik7xAtB8Nn0WnWHbGqGQokpE' style='min-width: 100px; width: 100%; min-height: 350px;'>
+    </iframe>
+  </form>
+</div>
+
+<div class="container">
     <div class="row">
         <div class="col-md-10 col-lg-8 mx-auto">
             <ul class="list-inline text-center">
